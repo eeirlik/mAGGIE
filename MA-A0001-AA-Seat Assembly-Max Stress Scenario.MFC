@@ -1,0 +1,16 @@
+[StartTime]
+MA-A0001-AA-Seat Assembly-Max Stress Scenario.MFC=3m:7s
+[SolverState]
+MA-A0001-AA-Seat Assembly-Max Stress Scenario.MFC=1
+[MainFrame]
+MA-A0001-AA-Seat Assembly-Max Stress Scenario.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPGICAAAAALLAAAAAAOODAAAAAHOCAAAAA
+[ShowMin]
+MA-A0001-AA-Seat Assembly-Max Stress Scenario.MFC=No
+[SolverType]
+MA-A0001-AA-Seat Assembly-Max Stress Scenario.MFC=Linear Analysis
+[StudyType]
+MA-A0001-AA-Seat Assembly-Max Stress Scenario.MFC=0
+[StudyName]
+MA-A0001-AA-Seat Assembly-Max Stress Scenario.MFC=Max Stress Scenario
+[Solver]
+MA-A0001-AA-Seat Assembly-Max Stress Scenario.MFC=Iterative

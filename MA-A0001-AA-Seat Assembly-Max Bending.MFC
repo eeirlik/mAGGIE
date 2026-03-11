@@ -1,0 +1,16 @@
+[StartTime]
+MA-A0001-AA-Seat Assembly-Max Bending.MFC=11s
+[SolverState]
+MA-A0001-AA-Seat Assembly-Max Bending.MFC=2
+[MainFrame]
+MA-A0001-AA-Seat Assembly-Max Bending.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMBCAAAAAJFBAAAAAEIDAAAAAMCCAAAAA
+[ShowMin]
+MA-A0001-AA-Seat Assembly-Max Bending.MFC=No
+[SolverType]
+MA-A0001-AA-Seat Assembly-Max Bending.MFC=Linear Analysis
+[StudyType]
+MA-A0001-AA-Seat Assembly-Max Bending.MFC=0
+[StudyName]
+MA-A0001-AA-Seat Assembly-Max Bending.MFC=Max Bending
+[Solver]
+MA-A0001-AA-Seat Assembly-Max Bending.MFC=Sparse
