@@ -1,2 +1,2 @@
 Number of Contacts: 12
-Number of contact data: 2784
+Number of contact data: 5091
