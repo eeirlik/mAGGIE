@@ -1,2 +1,2 @@
 Number of Contacts: 79
-Number of contact data: 9389
+Number of contact data: 19726
